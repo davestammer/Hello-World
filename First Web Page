@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" comtent="width=device-width, initial-scale=1.0">
+<title>First web page</title>
+<style>
+header, section, footer, aside, nav, main, article, figure {
+  display: block;
+  }
+body {
+    background-color: lightblue;
+} 
+h1 {
+    color:blue;
+}
+p {
+    font-family:courier;
+    color:black;
+}
+h2 {
+    font-family:arial;
+    font-size:50px;
+    color:white;
+}
+h3 {
+    font-size:45px;
+}
+p {
+    font-size:30px;
+    margin:5px;
+}
+</style>
+</head>
+<body>
+<h1 style="text-align:center; font-size:50px";>FIREFLY IV</h1>
+<hr>
+<h2>At Marathon,Florida</h2>
+<h3>Boot Key Harbor</h3>
+<p><i>Along side the seawall at Burdines Marina.</i></p>
+ <img src="/home/alan/Pictures/20160111_090709.jpg"; alt="Firefly 4"; style="width:100%;height:100%;border:0";> 
+<figure>
+<img src="/home/alan/Pictures/20160406_184059.jpg"; alt="Anchored" style="float:right;margin:5px;width:575px;height:360px;border:0";><figcaption Anchored in Boot Key Harbor></figcaption>
+</figure>
+<p style="text-align: right";><em>Anchored in<br>Boot Key<br>Harbor</em></p>
+<img src="/home/alan/Pictures/20160111_114640.jpg"; alt="Aft view" style="width:500px;height:240px;border:0";>
+<p><em>Aft view</em></p>
+</body>
+</html>
